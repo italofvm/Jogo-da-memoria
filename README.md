@@ -1,4 +1,4 @@
-# Desafio-DIO-jogo-da-memoria
+# Jogo da memória
 Desafio JavaScript feito para o bootcamp TQI,O tema ultilizado foi o mesmo do bootcamp, Super Mario.
 
 Este é um jogo da memória desenvolvido utilizando JavaScript, HTML e CSS. O objetivo é encontrar todas as cartas iguais em um tabuleiro.
