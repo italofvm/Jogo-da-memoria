@@ -10,6 +10,8 @@ Este é um jogo da memória desenvolvido utilizando JavaScript, HTML e CSS. O ob
 + Encontre a carta correspondente para completar o par 
 + Continue jogando até encontrar todos os pares 
 
+Jogo Funcionando--> https://italofvm.github.io/Jogo-da-memoria/
+
 ## Como contribuir
 
 Se você deseja contribuir para o desenvolvimento deste projeto, siga os passos abaixo:
